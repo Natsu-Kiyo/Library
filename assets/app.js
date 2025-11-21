@@ -24,7 +24,7 @@
           <label>读者证号</label>
           <input id="login-card" placeholder="例如 A0001 或学号" />
           <label>密码</label>
-          <input id="login-pass" type="password" placeholder="管理员与注册读者必填" />
+          <input id="login-pass" type="password" />
           <div class="actions">
             <button type="submit">登录</button>
             <button type="button" class="secondary" id="seed-reset">重置示例数据</button>
