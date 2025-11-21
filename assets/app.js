@@ -22,7 +22,7 @@
         <h2>登录</h2>
         <form class="form" id="form-login">
           <label>读者证号</label>
-          <input id="login-card" placeholder="例如 A0001 或学号" />
+          <input id="login-card" placeholder="例如学号" />
           <label>密码</label>
           <input id="login-pass" type="password" />
           <div class="actions">
